@@ -1,6 +1,6 @@
 # MLA-C01 ハンズオン環境 CDK
 
-このCDKプロジェクトは、AWS Machine Learning Specialty (MLA-C01) 認定試験のハンズオン学習環境を構築します。
+このCDKプロジェクトは、AWS Machine Learning Specialty (MLA-C01) 認定試験のハンズオン学習環境を構築します。知らんけど。
 
 ## 構築されるリソース
 
